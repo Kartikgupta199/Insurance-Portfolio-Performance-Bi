@@ -1,6 +1,6 @@
-📊 Insurance Loss Ratio & Portfolio Analytics Dashboard (Power BI)
+#📊 Insurance Loss Ratio & Portfolio Analytics Dashboard (Power BI)
 
-📖 Overview
+##📖 Overview
 
 An executive-style insurance analytics dashboard built in Power BI to evaluate underwriting performance, claim severity, and portfolio risk across 2023–2025.
 
@@ -8,15 +8,15 @@ The dashboard analyzes premium trends, claim outflows, policy distribution, and 
 
 ⸻
 
-⚙️ Data & Modeling
-	•	Structured and transformed multi-year insurance dataset
-	•	Built star-schema data model with a dedicated Date table
-	•	Created DAX measures for:
-	•	Loss Ratio (%)
-	•	Premium & Claim Aggregations
-	•	Segment-wise Contribution
-	•	Policy Status Analysis
-	•	Designed an executive-level dashboard layout
+##⚙️ Data & Modeling
+	-   Structured and transformed multi-year insurance dataset
+	-	Built star-schema data model with a dedicated Date table
+	-	Created DAX measures for:
+	-	Loss Ratio (%)
+	-	Premium & Claim Aggregations
+	-	Segment-wise Contribution
+	-	Policy Status Analysis
+	-	Designed an executive-level dashboard layout
 
 ⸻
 

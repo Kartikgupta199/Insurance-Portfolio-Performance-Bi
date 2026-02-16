@@ -6,7 +6,6 @@ An executive-style insurance analytics dashboard built in Power BI to evaluate u
 
 The dashboard analyzes premium trends, claim outflows, policy distribution, and loss ratio to assess overall business sustainability and pricing effectiveness.
 
-⸻
 
 ## ⚙️ Data & Modeling
 	-   Structured and transformed multi-year insurance dataset
@@ -18,9 +17,8 @@ The dashboard analyzes premium trends, claim outflows, policy distribution, and 
 	-	Policy Status Analysis
 	-	Designed an executive-level dashboard layout
 
-⸻
 
-📊 Key KPIs
+## 📊 Key KPIs
 	•	Total Premium
 	•	Total Coverage
 	•	Total Claims

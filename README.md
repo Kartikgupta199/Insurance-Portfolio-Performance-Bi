@@ -52,7 +52,5 @@ The dashboard analyzes premium trends, claim outflows, policy distribution, and 
 
 
 ## 👤 Author
-
-Kartik Gupta
-📩 kartik.gupta709@gmail.com
-🔗 https://www.linkedin.com/in/kartikgupta199
+	. 📩 kartik.gupta709@gmail.com
+	. 🔗 https://www.linkedin.com/in/kartikgupta199

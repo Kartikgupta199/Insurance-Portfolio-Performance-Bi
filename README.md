@@ -28,33 +28,30 @@ The dashboard analyzes premium trends, claim outflows, policy distribution, and 
 	•	Claims by Age Group
 	•	Claim Status Distribution
 
-⸻
 
-📈 Key Insights
+
+## 📈 Key Insights
 	•	Loss ratio exceeded sustainable thresholds, indicating underwriting pressure
 	•	Travel policies generated the highest premium contribution
 	•	Elder segment recorded the highest claim severity
 	•	Claim growth outpaced premium growth in selected segments
 
-⸻
 
-📌 Business Recommendations
+## 📌 Business Recommendations
 	•	Reprice high-risk segments
 	•	Strengthen underwriting guidelines
 	•	Improve claim validation controls
 	•	Continuously monitor loss ratio trends
 
-⸻
 
-🛠 Tools Used
+## 🛠 Tools Used
 	•	Microsoft Power BI
 	•	DAX
 	•	Power Query
 	•	Data Modeling
 
-⸻
 
-👤 Author
+## 👤 Author
 
 Kartik Gupta
 📩 kartik.gupta709@gmail.com

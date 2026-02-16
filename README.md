@@ -8,14 +8,14 @@ The dashboard analyzes premium trends, claim outflows, policy distribution, and 
 
 
 ## ⚙️ Data & Modeling
-	-   Structured and transformed multi-year insurance dataset
-	-	Built star-schema data model with a dedicated Date table
-	-	Created DAX measures for:
-	-	Loss Ratio (%)
-	-	Premium & Claim Aggregations
-	-	Segment-wise Contribution
-	-	Policy Status Analysis
-	-	Designed an executive-level dashboard layout
+	.  Structured and transformed multi-year insurance dataset
+	.	Built star-schema data model with a dedicated Date table
+	.	Created DAX measures for:
+	.	Loss Ratio (%)
+	.	Premium & Claim Aggregations
+	.	Segment-wise Contribution
+	.	Policy Status Analysis
+	.	Designed an executive-level dashboard layout
 
 
 ## 📊 Key KPIs

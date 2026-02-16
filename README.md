@@ -43,6 +43,9 @@ The dashboard analyzes premium trends, claim outflows, policy distribution, and 
 	•	Improve claim validation controls
 	•	Continuously monitor loss ratio trends
 
+## 📸 Dashboard Preview
+
+<img width="1140" height="640" alt="InsurancePNG" src="https://github.com/user-attachments/assets/d30e4cf0-07ec-4c67-a845-600ad4bf8468" />
 
 ## 🛠 Tools Used
 	•	Microsoft Power BI
